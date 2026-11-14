@@ -1,0 +1,2 @@
+Model,Scenario,Run_ID,Run_Type,Epochs,Best_Epoch,Batch_Size,Training_s,Validation_s,Testing_s,Overall_s,Validation_Passes,Train_Samples,Validation_Samples,Test_Samples,CPU,Visible_GPUs,TensorFlow_Version,OS
+RNN,S2,20261109_212826_745206,Repeated training benchmark,33,18,16,83.29672939993907,11.259199200081639,2.1819639000168536,96.73789250003756,33,340,116,28,"Intel64 Family 6 Model 154 Stepping 4, GenuineIntel",None,2.19.0,Windows-11-10.0.26300-SP0

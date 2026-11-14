@@ -1,0 +1,2 @@
+Model,Season,Scenario,Run_ID,Run_Type,Epochs,Best_Epoch,Batch_Size,Training_s,Validation_s,Testing_s,Overall_s,Validation_Passes,Train_Samples,Validation_Samples,Test_Samples,CPU,Visible_GPUs,TensorFlow_Version,OS
+RNN,Monsoon,S3,20261113_235350_964908,Repeated training benchmark,90,75,16,355.73432849993696,48.51339940004982,11.961666799994418,416.2093946999812,90,340,112,28,"Intel64 Family 6 Model 154 Stepping 4, GenuineIntel",None,2.19.0,Windows-11-10.0.26300-SP0
